@@ -37,5 +37,5 @@ Drag Particle_System_1 from this box over to the right into both the "Prefab Joi
 
 Next, drag the particle system called "Particle System" to the field "Prefab Updward" as shown
 
-Finally, drag the two sliders from this box over to the 
+Finally, drag the two sliders from this box over to their respective prefab fields. "Emission Slider" goes into the "Emission" field and "Emission Upward Slider" goes into "Emission Slider"
 ## Recommendations
