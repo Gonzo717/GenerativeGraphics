@@ -21,12 +21,12 @@ Nuitrack (required for client and developer)
      
  ![alt text](https://github.com/sumara523/GenerativeGraphics/blob/master/images/NuitrackLogin.PNG)
  <br /> 
+ [Here](https://github.com/3DiVi/nuitrack-sdk) is link to nuitrack sdk if you want to look at code examples. Should also be possible to [here](http://download.3divi.com/Nuitrack/doc/index.html) to find more info on API architecture and find Unity specific tutorials.
 ### Step 2: Running executable  
-Once you've downloaded Nuitrack the ISB.exe will be runnable and you will be able to see how the project looks at this point.
+Once you've downloaded Nuitrack and activated the license the ISB.exe will be runnable and you will be able to see how the project looks at this point. (NOTE: If don't activate license .exe will run but skeleton will immediately freeze up. Trial License should run but has time limit. Pro License should run with no time limit)
 ### Installing Unity for develpoment
 [Link for proper version download](https://unity3d.com/get-unity/download/archive)   
 Navigate to 2017.x and get .4.38
-
 ## Unity Program Structure
 ### Camera
 Our Unity scene must contain a Camera and a Directional Light. The 
