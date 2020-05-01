@@ -17,11 +17,13 @@ Nuitrack (required for client and developer)
   
   ![alt_text](https://github.com/sumara523/GenerativeGraphics/blob/master/images/ActivationTool.PNG)<br /> 
     
-   Once you find Nuitrack.exe run it and complete the compatability test (NOTE: Must have Real Sense Camera Plugged or .oni installed and configured int nuitrack_config to succesfully pass). After you pass the compatability test the text box to activate license should be ungreyed and you should be able to enter in a license key (log in [here](https://cognitive.3divi.com/app/nuitrack/login/) using account information provided by Clay and activate either a trial license (only works for 3 minutes) or the Pro License). You have to run compatibility test with camera plugged in to activate a license.<br />   
+   Once you find Nuitrack.exe run it and complete the compatability test (NOTE: Must have Real Sense Camera Plugged or .oni installed and configured in nuitrack_config file to succesfully pass). After you pass the compatability test the text box to activate license should be ungreyed and you should be able to enter in a license key (log in [here](https://cognitive.3divi.com/app/nuitrack/login/) using account information provided by Clay and activate either a trial license (only works for 3 minutes) or the Pro License). You have to run compatibility test with camera plugged in to activate a license.<br />   
      
  ![alt text](https://github.com/sumara523/GenerativeGraphics/blob/master/images/NuitrackLogin.PNG)
  <br /> 
  [Here](https://github.com/3DiVi/nuitrack-sdk) is link to nuitrack sdk if you want to look at code examples. Should also be possible to [here](http://download.3divi.com/Nuitrack/doc/index.html) to find more info on API architecture and find Unity specific tutorials.
+### Ease Development 
+If you don't want to have to connect the camera every time you make a small change you can download a .oni file or use the one provided in the repo and add the file path to the config 
 ### Step 2: Running executable  
 Once you've downloaded Nuitrack and activated the license the ISB.exe will be runnable and you will be able to see how the project looks at this point. (NOTE: If don't activate license .exe will run but skeleton will immediately freeze up. Trial License should run but has time limit. Pro License should run with no time limit)
 ### Installing Unity for develpoment
