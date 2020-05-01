@@ -9,18 +9,23 @@ Intel Real Sense 415/435 Depth Cameras
 Unity version 2017.4.38f1 - (required for development only)  
 Nuitrack (required for client and developer)
 ### Step 1: Nuitrack
-  Link to download http://download.3divi.com/Nuitrack/doc/Installation_page.html  
+  [Installation Page](http://download.3divi.com/Nuitrack/doc/Installation_page.html)  
     
   Once you've downloaded navigate to where the Nuitrack File downloaded. (On my machine it automatically went to Program Files) and head over to the activation_tools and run the Nuitrack.exe  
   
-  ![alt text](https://github.com/sumara523/GenerativeGraphics/blob/master/images/NuitrackExe.PNG)  
-  ![alt_text](https://github.com/sumara523/GenerativeGraphics/blob/master/images/ActivationTool.PNG)  
-   Once you find Nuitrack.exe run it and complete the compatability test (NOTE: Must have Real Sense Camera Plugged or .oni installed and configured int nuitrack_config to succesfully pass). After you pass the compatability test the text box to activate license should be ungreyed and you should be able to enter in a license key (log in at nuitrack.com using account information provided by Clay and activate either a trial license (only works for 3 minutes) or the Pro License). You have to run compatibility test with camera plugged in to activate a license.  
+  ![alt text](https://github.com/sumara523/GenerativeGraphics/blob/master/images/NuitrackExe.PNG)<br />
+  
+  ![alt_text](https://github.com/sumara523/GenerativeGraphics/blob/master/images/ActivationTool.PNG)<br /> 
+    
+   Once you find Nuitrack.exe run it and complete the compatability test (NOTE: Must have Real Sense Camera Plugged or .oni installed and configured int nuitrack_config to succesfully pass). After you pass the compatability test the text box to activate license should be ungreyed and you should be able to enter in a license key (log in [here](https://cognitive.3divi.com/app/nuitrack/login/) using account information provided by Clay and activate either a trial license (only works for 3 minutes) or the Pro License). You have to run compatibility test with camera plugged in to activate a license.<br />   
      
  ![alt text](https://github.com/sumara523/GenerativeGraphics/blob/master/images/NuitrackLogin.PNG)
+ <br /> 
 ### Step 2: Running executable  
-Once you've downloaded Nuitrack the ISB.exe will be runnable and you can test out the code
+Once you've downloaded Nuitrack the ISB.exe will be runnable and you will be able to see how the project looks at this point.
 ### Installing Unity for develpoment
+[Link for proper version download](https://unity3d.com/get-unity/download/archive)   
+Navigate to 2017.x and get .4.38
 
 ## Unity Program Structure
 ### Camera
