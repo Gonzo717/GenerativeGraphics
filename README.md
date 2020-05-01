@@ -2,10 +2,10 @@
 
 ## Installation
 ### Requirements
-### Hardwares Required:
+#### Hardwares Required:
 Machine Capable of running Windows 10  
 Intel Real Sense 415/435 Depth Cameras 
-### Software Required:
+#### Software Required:
 Unity version 2017.4.38f1 - (required for development only)  
 Nuitrack (required for client and developer)
 ### Step 1: Nuitrack
