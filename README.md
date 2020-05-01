@@ -13,9 +13,9 @@ Nuitrack (required for client and developer)
     
   Once you've downloaded navigate to where the Nuitrack File downloaded. (On my machine it automatically went to Program Files) and head over to the activation_tools and run the Nuitrack.exe  
   
-  ![alt text](https://github.com/sumara523/GenerativeGraphics/blob/master/images/NuitrackExe.PNG)
-    
-   Once you have Nuitrack.exe the compatability test (NOTE: Must have Real Sense Camera Plugged or .oni installed and configured int nuitrack_config to succesfully pass). After you pass the compatability test the text box to activate license should be ungreyed and you should be able to enter in a license key (log in at nuitrack.com using account information provided by Clay and activate either a trial license (only works for 3 minutes) or the Pro License). You have to run compatibility test with camera plugged in to activate a license.  
+  ![alt text](https://github.com/sumara523/GenerativeGraphics/blob/master/images/NuitrackExe.PNG)  
+  ![alt_text](https://github.com/sumara523/GenerativeGraphics/blob/master/images/ActivationTool.PNG)  
+   Once you find Nuitrack.exe run it and complete the compatability test (NOTE: Must have Real Sense Camera Plugged or .oni installed and configured int nuitrack_config to succesfully pass). After you pass the compatability test the text box to activate license should be ungreyed and you should be able to enter in a license key (log in at nuitrack.com using account information provided by Clay and activate either a trial license (only works for 3 minutes) or the Pro License). You have to run compatibility test with camera plugged in to activate a license.  
      
  ![alt text](https://github.com/sumara523/GenerativeGraphics/blob/master/images/NuitrackLogin.PNG)
 ### Step 2: Running executable  
