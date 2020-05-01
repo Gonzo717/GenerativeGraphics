@@ -26,7 +26,7 @@ Nuitrack (required for client and developer)
  We imported the Nuitrack Unity Package found [here](https://github.com/3DiVi/nuitrack-sdk/tree/master/Unity3D) in the aboce mentioned repo and imported it as an asset in the unity project to access the api but you shouldn't have to as it should be included in the New Unity Project.  
  
 ### Ease Development 
-If you don't want to have to connect the camera every time you make a small change and want to see it  you can download a .oni file or use the one provided in the repo and add the file path of the oni file to the nuitrack_config file under the OpenNI in the FileRecord Section
+If you don't want to have to connect the camera every time you make a small change and want to see it  you can download a .oni file (essentially just a video file with depth information. Easy to find places to download them if you just search online. Also [here](http://www.jvcref.com/files/oni/?C=S;O=A) is a site we found that has oni files but some just contain videos of empty offices with people periodically walking through. Download at own risk!!) and add the file path of the oni file to the nuitrack_config file under the OpenNI in the FileRecord Section
 ![alt text](https://github.com/sumara523/GenerativeGraphics/blob/master/images/ConfigLocation.PNG)
 ![alt text](https://github.com/sumara523/GenerativeGraphics/blob/master/images/NuitrackConfig.PNG)  
 
