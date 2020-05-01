@@ -19,7 +19,14 @@ Once you've downloaded Nuitrack the ISB.exe will be runnable and you can test ou
 ### Installing Unity for develpoment
 
 ## Unity Program Structure
-### Camera
-Our Unity scene must contain a Camera and a Directional Light. The 
+### Camera and Directional Light
+Our Unity scene must contain a Camera and a Directional Light. The default settings should be okay, except the background on the camera should be changed to black.
 ![alt text](https://github.com/sumara523/GenerativeGraphics/blob/master/images/camera.png)
+
+### Nuitrack Scripts
+The default values should be okay here as well, though all we need is skeletal tracking for this project.
+
+### GameObject
+This game object contains all of the 
+
 ## Recommendations
