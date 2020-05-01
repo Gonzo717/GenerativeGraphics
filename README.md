@@ -38,6 +38,8 @@ Once you've downloaded Nuitrack and activated the license the ISB.exe will be ru
 [Link for proper version download](https://unity3d.com/get-unity/download/archive)   
 Navigate to 2017.x and get .4.38  
 Once you have Unity you can download the New Unity Project and open it up in Unity and the correct scene should be loaded in and if not the scene you are looking to load in is Generative Graphics.
+DO NOT have the collabortion service turned on and push code to git. Unity corrupts some files while doing this. Instead, push and pull from github for collaborating on the project.
+
 ## Unity Program Structure
 ### Camera and Directional Light
 Our Unity scene must contain a Camera and a Directional Light. The default settings should be okay, except the background on the camera should be changed to black.
