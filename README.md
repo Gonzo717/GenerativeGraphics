@@ -61,3 +61,5 @@ Next, drag the particle system called "Particle System" to the field "Prefab Upd
 
 Finally, drag the two sliders from this box over to their respective prefab fields. "Emission Slider" goes into the "Emission" field and "Emission Upward Slider" goes into "Emission Slider"
 
+To run, go to "File" and select "Build & Run"
+
