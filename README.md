@@ -7,4 +7,7 @@
 ### Installing Unity for develpoment
 
 ## Unity Program Structure
+### Camera
+Our Unity scene must contain a Camera and a Directional Light. The 
+![alt text](https://github.com/sumara523/GenerativeGraphics/blob/master/images/camera.png)
 ## Recommendations
